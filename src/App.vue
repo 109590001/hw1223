@@ -434,8 +434,8 @@ export default {
             background-size: cover;
             opacity: 1;
             position: absolute;
-            top: 100px;
-            left: 943px;
+            top: 30px;
+            left: 30px;
             overflow: hidden;
         }
     </style>
